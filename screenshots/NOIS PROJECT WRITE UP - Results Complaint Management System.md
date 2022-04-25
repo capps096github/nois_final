@@ -1,6 +1,6 @@
-# NOIS - Results Complaint Management System
+﻿# NOIS - Results Complaint Management System
 
-### DESCRIPTION
+## DESCRIPTION
 
 The results complaints app is called NOIS. It enables lecturers to submit results (Course work/final mark) against each course unit the students have registered for. If a student is not satisfied with their results, he or she submits a complaint, the app tracks it and then receives a CASE Tracking Number. The complaints submitted can be approved by the AR and HOD after which the results will be rectified by the lecturer depending on the courses he or she teaches.in case the complaints are not approved by the AR, a student can appeal directly to the HOD. The students can at any time also check the status of the complaint by using the CASE Tracking Number. The case status can change on submission of the case, upon approval by AR, upon approval by HOD, upon approve entry of the result by lecturer, upon approval of result by HOD and upon rejection by HOD/AR and the students receive email alerts upon each status change.
 
@@ -50,65 +50,65 @@ A. USER INTERFACE
 
 1. **Home**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.004.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.004.png)
 
 1. **Dashboard**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.005.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.005.png)
 
 **STUDENT LOGIC**
 
 1. **Home**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.006.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.006.png)
 
 1. **Register**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.007.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.007.png)
 
 1. **Login**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.008.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.008.png)
 
 1. **Add Complaint by Student**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.009.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.009.png)
 
 **ADMIN: HOD, LECTURER, AR**
 
 - **Dashboard**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.010.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.010.png)
 
 - **Register**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.011.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.011.png)
 
 - **Login**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.012.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.012.png)
 
 - **Add Student Marks by Lecturer**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.013.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.013.png)
 
 **COMPLAINTS VIEWS**
 
 - **HOD**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.014.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.014.png)
 
 - **AR**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.015.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.015.png)
 
 - **LECTURER**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.016.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.016.png)
 
 - **STUDENT**
 
-![](/screenshots/Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.017.png)
+![](Aspose.Words.28df7cc6-e924-48ad-b09a-33c5a6baf7f1.017.png)
 
 
 5. **SCOPE OF THE STUDY**
